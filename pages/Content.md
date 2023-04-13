@@ -3,7 +3,7 @@ title: Content
 permalink: /content/
 description: ""
 ---
-[OGP Hack for Good](https://www.youtube.com/watch?v=mgxE3IPE4WY&amp;t=5903s)![](/images/hero-banner.png)
+[OGP Hack for Public Good](https://www.youtube.com/watch?v=mgxE3IPE4WY&amp;t=5903s)![](/images/hero-banner.png)
 
 **
 
